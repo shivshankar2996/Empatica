@@ -25,3 +25,9 @@ If you need any additional information about the Empatica API for Android, pleas
 
 [1]: https://www.empatica.com/connect/developer.php
 [2]: http://developer.empatica.com
+
+![Screenshot_20231110-112531 (1)](https://github.com/shivshankar2996/Empatica/assets/112530146/cebcba0d-5196-4011-b09a-8eb2d1814965)
+![Screenshot_20231110-112431](https://github.com/shivshankar2996/Empatica/assets/112530146/1485fc7f-60ae-4134-8efc-c65f26b6d617)
+![Screenshot_20231107-151641](https://github.com/shivshankar2996/Empatica/assets/112530146/704732b2-8842-495b-a747-e551bfcb7a9b)
+
+
