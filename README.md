@@ -33,5 +33,6 @@ If you need any additional information about the Empatica API for Android, pleas
 ![Screenshot_20231107-151641](https://github.com/shivshankar2996/Empatica/assets/112530146/704732b2-8842-495b-a747-e551bfcb7a9b)
 ![E4](https://github.com/shivshankar2996/Empatica/assets/112530146/e40a2203-1ee6-426c-b3d1-3ab3411eda55)
 
+![E4](https://github.com/shivshankar2996/Empatica/assets/112530146/c9a0704a-eca2-47fa-a02e-519ac9b09ce2)
 
 
